@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://LeoPtls.github.io/sitemap.xml
+Sitemap: https://leoptls.github.io//sitemap.xml
