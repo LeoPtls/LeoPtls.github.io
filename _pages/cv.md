@@ -4,8 +4,8 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: LE CV DE LEOOOOOOOO
+cv_pdf: cv_leo_en.pdf
+description: 
 toc:
   sidebar: left
 ---
