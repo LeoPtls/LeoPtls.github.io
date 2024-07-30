@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Leo.Portales@irit.fr
 
 profile:
   align: right
-  image: leo.jpg
+  image: leo_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>2 Rue Charles Camichel</p>
