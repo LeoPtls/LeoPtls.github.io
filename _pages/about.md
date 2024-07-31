@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Leo.Portales@irit.fr
+subtitle: <a href='https://www.irit.fr/'>IRIT</a> <a href='https://www.tse-fr.eu/fr'>TSE</a> <a href='https://www.enseeiht.fr/fr/index.html'>ENSEEIHT</a>
+
 
 profile:
   align: right
@@ -11,6 +12,7 @@ profile:
   more_info: >
     <p>2 Rue Charles Camichel</p>
     <p>31000, Toulouse</p>
+    <p>leo.Portales@irit.fr</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
