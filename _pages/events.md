@@ -7,6 +7,14 @@ nav: true
 nav_order: 6
 ---
 
+### 2026
+
+**Workshop: Curves and Surfaces**<br>
+📅 June 8, 2026 · 🗣️ *Presented* · 📄 [Slides (PDF)]({{ '/assets/pdf/statistical_estimation_of_optimal_transport_maps.pdf' | relative_url }})
+
+**PhD Seminar — SC-IRIT Team**<br>
+📅 February 26, 2026 · 🗣️ *Presented*
+
 ### 2025
 
 **Thematic Days on Optimal Transport — I2M Marseilles**  
